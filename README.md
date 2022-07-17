@@ -8,6 +8,9 @@ LabVIEW 2015 and higher.
 
 [Modbus Client Library](https://github.com/plasmapper/modbus-client-labview) ([VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_modbus_client/))
 
+## Installation
+[VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_smc_hecr/)
+
 ## Features
 1. Read device state and configuration.
 2. Configure control mode.
