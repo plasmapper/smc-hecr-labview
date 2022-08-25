@@ -1,6 +1,4 @@
-# SMC HECR Series Library for LabVIEW
-LabVIEW instrument driver for SMC HECR series temperature controllers.
-
+# LabVIEW Instrument Driver for SMC HECR Series Temperature Controllers
 Tested on HECR004-A5-E.
 
 ## Requirements
